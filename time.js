@@ -1,5 +1,5 @@
 var a = new XMLHttpRequest();
-var url = 'http://api.timezonedb.com/v2/get-time-zone?key=ABEJXPCJW3EP&format=json&by=zone&zone=Europe/Tirane';
+var url = 'http://api.timezonedb.com/v2/get-time-zone?key=YOUR_API_KEY&format=json&by=zone&zone=Europe/Tirane';
 
 var time;
 var d;
